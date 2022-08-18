@@ -19,7 +19,7 @@ William Casarin Bitcoin Core & Lightning Developer, building Damus
 ### Mailing Lists
 
 #### bitcoin-dev
-[OP_FOLD: A Looping Construct For Bitcoin SCRIPT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020021.html)
+- [OP_FOLD: A Looping Construct For Bitcoin SCRIPT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020021.html)
 
 #### lightning-dev
 
@@ -79,7 +79,8 @@ William Casarin Bitcoin Core & Lightning Developer, building Damus
 <!-- ### BOLTS -->
 
 ### New Releases
-
+- [Fedimint, Federated Layer 2](https://fedimint.org/)
+- [Amboss Magma, Lightning Liquidity Marketplace](https://docs.amboss.space/space/magma)
 
 
 ## Events and Podcasts
@@ -88,4 +89,5 @@ William Casarin Bitcoin Core & Lightning Developer, building Damus
 
 ## Miscellaneous
 
+- [Voltage 500K free inbound liquidity](https://voltage.cloud/blog/feature-updates/effortless-inbound-channel-opening-for-voltage-nodes/)
 - [Lightning Terminal to the Web](https://terminal.lightning.engineering/#/)
