@@ -92,3 +92,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 - [Bitcoin++ Layer 2 Conference ](https://btcpp.dev/#agenda)
 
 ## Miscellaneous
+  - [2023 Banking Crisis] (https://www.piratewires.com/p/2023-banking-crisis)
+  - [News Outlets Talking about falling Dominance of USD]
+    - [CNN] (https://twitter.com/FareedZakaria/status/1640058728752840707?t=0jSs_2a9wMjlDmOHObJqcw&s=19)
+    - [Fox News] (https://twitter.com/HumbleBitcoiner/status/1640178410746966016?t=_DQGJb_mc5rsumsvEj_oWQ&s=19)
